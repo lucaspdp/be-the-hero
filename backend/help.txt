@@ -1,0 +1,16 @@
+
+/**
+ * QUERY Params: Parâmetros enviados na rota, após o "?" (Filtros, paginação)
+ * ROUTE Params: Parâmetros utilizados para identificar recursos
+ * Request Body: Corpo da requisição, utilizado para criar, ou alterar infos
+*/
+
+/**
+ * SQL: MySQL, SQLite, PostreSQL, Oracle, Microsoft SQL Server
+ * NoSQL: MongoDB, CouchDB, etc
+*/
+
+/**
+ * Driver: SELECT * FROM users
+ * Query Builder: table('users').select('*').where() 
+*/
